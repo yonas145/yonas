@@ -1,0 +1,32 @@
+body{
+  background-image: url(td.jpg);
+  padding: 2mm;
+}
+#button{
+  text-align: center;
+}
+#h1{
+  color: Black;
+  text-align: center;
+}
+#h2{
+  color: Black;
+  text-align:center;
+}
+#h3{
+  color: Black;
+  text-align: center;
+}
+#part1{color:black;
+  font-family: Verdana;
+  background-color: pink;
+}
+#part2{color:red;
+font-family: Times New Roman;
+  background-color: pink;
+}
+#part3{
+color: purple;
+font-family: Sans-Serif;
+  background-color: pink;
+}
